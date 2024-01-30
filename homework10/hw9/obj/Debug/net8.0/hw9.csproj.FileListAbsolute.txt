@@ -1,0 +1,14 @@
+C:\Users\Eng Sear\Desktop\homework10\hw9\bin\Debug\net8.0\hw9.exe
+C:\Users\Eng Sear\Desktop\homework10\hw9\bin\Debug\net8.0\hw9.deps.json
+C:\Users\Eng Sear\Desktop\homework10\hw9\bin\Debug\net8.0\hw9.runtimeconfig.json
+C:\Users\Eng Sear\Desktop\homework10\hw9\bin\Debug\net8.0\hw9.dll
+C:\Users\Eng Sear\Desktop\homework10\hw9\bin\Debug\net8.0\hw9.pdb
+C:\Users\Eng Sear\Desktop\homework10\hw9\obj\Debug\net8.0\hw9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Sear\Desktop\homework10\hw9\obj\Debug\net8.0\hw9.AssemblyInfoInputs.cache
+C:\Users\Eng Sear\Desktop\homework10\hw9\obj\Debug\net8.0\hw9.AssemblyInfo.cs
+C:\Users\Eng Sear\Desktop\homework10\hw9\obj\Debug\net8.0\hw9.csproj.CoreCompileInputs.cache
+C:\Users\Eng Sear\Desktop\homework10\hw9\obj\Debug\net8.0\hw9.dll
+C:\Users\Eng Sear\Desktop\homework10\hw9\obj\Debug\net8.0\refint\hw9.dll
+C:\Users\Eng Sear\Desktop\homework10\hw9\obj\Debug\net8.0\hw9.pdb
+C:\Users\Eng Sear\Desktop\homework10\hw9\obj\Debug\net8.0\hw9.genruntimeconfig.cache
+C:\Users\Eng Sear\Desktop\homework10\hw9\obj\Debug\net8.0\ref\hw9.dll
